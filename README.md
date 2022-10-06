@@ -1,4 +1,4 @@
-<img src="https://cdn.staticaly.com/gh/chenxch/pic-image@master/20220929/image-31.5wzs9gnp33k.webp" />
+<img src="https://cdn.staticaly.com/gh/451444336/pic-image@master/20220929/image-31.5wzs9gnp33k.webp" />
 
 # xlegex / x了个X
 
@@ -8,10 +8,10 @@ This is a match-3 game, a simplified version of the sheep, currently based on ra
 
 
 
-[Online Demo / 在线demo](https://chenxch.github.io/xlegex/)
+[Online Demo / 在线demo](https://451444336.github.io/xlegex/)
 
 ## Game screenshot / 游戏截图
-![QQ浏览器截图20220922214942](https://cdn.staticaly.com/gh/chenxch/pic-image@master/20220929/tutu.4jhzwxilnfs0.gif)
+![QQ浏览器截图20220922214942](https://cdn.staticaly.com/gh/451444336/pic-image@master/20220929/tutu.4jhzwxilnfs0.gif)
 
 
 ## Core Code / 核心代码
