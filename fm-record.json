@@ -369,5 +369,110 @@
 		"oldSize": 157.9990234375,
 		"ratio": -0.027640598055516108,
 		"time(ms)": 11762
+	},
+	"05da551e62a2606503f031808aa8807e": {
+		"relativePath": "src/assets/tutuback/wenjing1.PNG",
+		"size": 28.107421875,
+		"oldSize": 116.5888671875,
+		"ratio": -0.7589184752108689,
+		"time(ms)": 20080
+	},
+	"8559e2d1d25f21a1b9b302f4d4e77191": {
+		"relativePath": "src/assets/tutu2/4.png",
+		"size": 20.7578125,
+		"oldSize": 88.8798828125,
+		"ratio": -0.7664509465680727,
+		"time(ms)": 20782
+	},
+	"d19a2d2c0be73aec0c9642dece9068e0": {
+		"relativePath": "src/assets/tutu2/1.png",
+		"size": 23.330078125,
+		"oldSize": 96.6591796875,
+		"ratio": -0.7586356701926671,
+		"time(ms)": 21452
+	},
+	"12db1a50f2b517fee9f5e8385a69eca5": {
+		"relativePath": "src/assets/tutu/6.78512e60.png",
+		"size": 29.8984375,
+		"oldSize": 132.5595703125,
+		"ratio": -0.7744528182347264,
+		"time(ms)": 22125
+	},
+	"8420f5b13bfee0d13e5a7fe1ed496a30": {
+		"relativePath": "src/assets/tutu2/13.png",
+		"size": 44.48828125,
+		"oldSize": 198.1455078125,
+		"ratio": -0.7754767103168541,
+		"time(ms)": 25701
+	},
+	"0e40146d1ea2ac677ab54ee68a013c96": {
+		"relativePath": "src/assets/tutu2/3.png",
+		"size": 45.263671875,
+		"oldSize": 208.455078125,
+		"ratio": -0.7828612654480038,
+		"time(ms)": 25698
+	},
+	"8feebae571f1682f31e7bf40fbe949eb": {
+		"relativePath": "src/assets/tutu/9.54ec0e4b.png",
+		"size": 61.595703125,
+		"oldSize": 290.9248046875,
+		"ratio": -0.7882762070041993,
+		"time(ms)": 27888
+	},
+	"e158ab7cca5ea7f631488696bc68c607": {
+		"relativePath": "src/assets/tutu2/12.png",
+		"size": 72.6591796875,
+		"oldSize": 325.7900390625,
+		"ratio": -0.7769754413100366,
+		"time(ms)": 29878
+	},
+	"3b119ac35b8111e1730af01dae5e362a": {
+		"relativePath": "src/assets/tutu/15.6d0ea0b4.png",
+		"size": 67.0595703125,
+		"oldSize": 270.37890625,
+		"ratio": -0.7519792825461953,
+		"time(ms)": 29741
+	},
+	"ce539c4d05e5423db39a1239057bdc4f": {
+		"relativePath": "src/assets/tutu2/14.png",
+		"size": 75.505859375,
+		"oldSize": 355.205078125,
+		"ratio": -0.7874302367140461,
+		"time(ms)": 30632
+	},
+	"59728a4ede007a8e6e0bf2dd3e7d630c": {
+		"relativePath": "src/assets/tutu2/10.png",
+		"size": 110.63671875,
+		"oldSize": 480.70703125,
+		"ratio": -0.7698458488066894,
+		"time(ms)": 31110
+	},
+	"a445c989a01106feb946d576ada08ffd": {
+		"relativePath": "src/assets/tutu2/8.png",
+		"size": 208.1826171875,
+		"oldSize": 316.8330078125,
+		"ratio": -0.3429263616665177,
+		"time(ms)": 31711
+	},
+	"82974650e6f73dd85c90fab78d81492e": {
+		"relativePath": "src/assets/tutu/11.2e4a54bb.png",
+		"size": 162.9375,
+		"oldSize": 708.119140625,
+		"ratio": -0.7699010086689817,
+		"time(ms)": 32674
+	},
+	"fdca7b022358bf12264a62d9561a319c": {
+		"relativePath": "src/assets/tutu/7.cfacdfa6.png",
+		"size": 146.3203125,
+		"oldSize": 648.0126953125,
+		"ratio": -0.7742014723501089,
+		"time(ms)": 33137
+	},
+	"cd3712d9d0673d483f12d65098f21bf7": {
+		"relativePath": "src/assets/tutu/5.8815abdb.png",
+		"size": 213.638671875,
+		"oldSize": 328.9599609375,
+		"ratio": -0.3505632987487197,
+		"time(ms)": 34063
 	}
 }
