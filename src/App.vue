@@ -105,7 +105,7 @@ onMounted(() => {
 <template>
   <div flex flex-col w-full h-full>
     <div text-44px text-center w-full color="#000" fw-600 h-60px flex items-center justify-center mt-10px>
-      兔了个兔
+      胡了个胡
     </div>
     <div ref="containerRef" flex-1 flex>
       <div w-full relative flex-1>
