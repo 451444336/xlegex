@@ -139,7 +139,7 @@ onMounted(() => {
       />
     </div>
     <div w-full flex items-center justify-center>
-      <div border="~ 4px dashed #000" w-295px h-44px flex>
+      <div border="~ 4px dashed #000" w-450px h-70px flex>
         <template v-for="item in selectedNodes" :key="item.id">
           <transition name="bounce">
             <Card

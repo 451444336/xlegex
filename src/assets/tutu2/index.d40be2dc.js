@@ -4197,7 +4197,7 @@ const Au = {flex: "", "flex-col": "", "w-full": "", "h-full": ""}, Mu = de("div"
         "fw-bold": ""
     }, Nu = {"text-center": "", "h-50px": "", flex: "", "items-center": "", "justify-center": ""},
     Pu = {"w-full": "", flex: "", "items-center": "", "justify-center": ""},
-    ju = {border: "~ 4px dashed #000", "w-295px": "", "h-44px": "", flex: ""},
+    ju = {border: "~ 4px dashed #000", "w-450px": "", "h-60px": "", flex: ""},
     Su = {"h-50px": "", flex: "", "items-center": "", "w-full": "", "justify-center": ""}, Ru = ["disabled"],
     Lu = ["disabled"], $u = de("div", {
         "w-full": "",
